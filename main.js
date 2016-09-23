@@ -7,3 +7,7 @@ if (cardTwo===cardOne) {
 }else{
 	alert('Sorry, try again!');
 }
+var card = document.getElementById("game-board");
+for(i=0;i=5;i++){
+	
+}
